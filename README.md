@@ -1,3 +1,2 @@
-# assignments
-this repository contains my assignments
-["this is my final assignment"](https://github.com/edoardofalchi/assignments/blob/master/edoardo_falchi_final_assignment_AEA1.ipynb)
+Please open the .ipynb file that is in this repo by using your own Jupyter Notebook.
+Alternatively see the pdf version I uploaded
