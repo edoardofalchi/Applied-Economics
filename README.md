@@ -1,5 +1,9 @@
-## Please open the .ipynb file that is in this repo by using your own Jupyter Notebook.
-## Alternatively see the pdf version I uploaded.💻
+# Applied Economics Analysis 💻| Tilburg University | Edoardo Falchi
+# Business Case: Telco Customer Churn
+
+In a nutshell, this repo contains Exploratory Analysis of the churn phenomenon, Logistic Regression and Resampling Methods to assess the estimates goodness of the built model.
+
+---
 
 These were the original instruction of the project:
 **what we are looking for**
